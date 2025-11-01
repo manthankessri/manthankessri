@@ -80,7 +80,7 @@ html{
     right: 30px;
     bottom: 10px;
     text-align: center;
-    line-height: 39px;
+    line-height: 40px;
     color: #fff;
     z-index: 9999;
     font-size: 30px;
@@ -425,11 +425,11 @@ section .title::after{
 .contact .contact-content .row .partition{
     border-left: 2.5px solid gray;
     height: 50px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
 }
 .contact .contact-content .row .info{
-    margin-left: 20px;
+    margin-left: 14px;
 }
 .contact .contact-content .row i{
     font-size: 25px;
@@ -840,4 +840,5 @@ footer span a:hover{
 
 
 }
+
 
